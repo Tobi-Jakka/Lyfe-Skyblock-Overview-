@@ -14,3 +14,5 @@ Trello: https://goo.gl/Y2wSsS
 Buycraft: https://goo.gl/fZzniY
 
 Discord-Inv-Link: https://goo.gl/VUsHLZ
+
+Custom-Kit: https://goo.gl/J1pn5p
